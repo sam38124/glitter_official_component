@@ -1,0 +1,6 @@
+./node_modules/
+./backend_default/node_modules/
+./lambda/node_modules/
+./.idea/
+/node_modules/
+/backend_default/node_modules/
